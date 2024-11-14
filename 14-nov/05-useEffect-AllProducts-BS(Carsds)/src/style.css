@@ -1,0 +1,31 @@
+/* .txt{
+    background-color: orange;
+    color: red;
+    padding: 25px;
+}
+.txt1{
+    background-color: pink;
+    color: blue;
+    padding: 15px;
+} */
+.container{
+    height: 1000px;
+    background-color: rgb(228, 228, 228);
+       
+}
+.one{
+    background-color: gray;
+    height: 100px;
+    text-align: center;
+}
+.two{
+    background-color: silver;
+    height: 600px;
+}
+.three{
+    background-color: black;
+    color: white;
+    height: 100px;
+    text-align: center;
+    padding-top: 10px;
+}
